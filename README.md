@@ -38,6 +38,3 @@ Example recognition result image (respectively):
 . | Accuracy Rate	|100%	|40%	|15%	|85%|
 
 Note: Black (No. 1-5), White (No. 6-10), Yellow (No. 11-15), Blue (No. 16-20)
-
-Credit:
-Team members: See Rui, Moo Chi Yuen
