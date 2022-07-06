@@ -1,5 +1,5 @@
 # IPPR---License-Plate-Recognition
-In this project, the building of prototype of license plate recognition system is done using image processing techniques. The dataset consists of 20 car images, 7 from lecturer, 13 from internet. It involves car plate with 4 different colors which are yellow, blue, black, and white.
+In this project, the building of license plate recognition system is done using image processing techniques available in MATLAB. The dataset consists of 20 car images, 7 from lecturer, 13 from internet. It involves car plate with 4 different colors which are yellow, blue, black, and white.
 
 ## Solution
 
