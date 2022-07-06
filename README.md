@@ -7,8 +7,8 @@ Plate detection: HSV(Hue,Saturation,Value) and HSV-Edge.
 
 Plate recognition: Tesseract OCR with single character, Tesseract OCR with entire plate, Google Vision entire plate
 
-Example image:
-![image](https://user-images.githubusercontent.com/65324580/177560443-3359fc3f-dbf0-4dd9-a21f-f19e1133f3e7.png)
+Example recognition result image (respectively):
+![image](https://user-images.githubusercontent.com/65324580/177566347-fa78fefc-2bae-462d-a320-bd6e6c9dae5a.png)
 
 ## Experimental Results
 
